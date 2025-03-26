@@ -48,7 +48,7 @@ plt.show()
 #Gráfico de barras
 plt.figure(figsize=(10, 6))
 df['Temporada_Cod'].value_counts().plot(kind='bar', color= '#90ee70')
-plt.title('Marcas mais populares')
+plt.title('Quantidade vendida na temporada')
 plt.xlabel('Temporada')
 plt.ylabel('Qtd_Vendidos_Cod')
 plt.xticks(rotation=0)
