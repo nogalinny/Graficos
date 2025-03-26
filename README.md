@@ -12,9 +12,9 @@ Poucos produtos possuem notas abaixo de 3.5.
 A curva KDE (linha azul) sugere que as avaliações seguem uma distribuição levemente assimétrica para a esquerda (notas tendendo a ser mais altas).
 
 Interpretação e Decisão:
-✔ A maioria dos clientes está satisfeita, já que a maioria das notas está acima de 4.0.
-✔ Pode-se destacar esses produtos bem avaliados em campanhas de marketing para impulsionar vendas.
-✔ Caso existam produtos com notas abaixo de 3.5, é essencial entender os motivos das avaliações negativas (problemas com qualidade, entrega, etc.) e corrigi-los.
+A maioria dos clientes está satisfeita, já que a maioria das notas está acima de 4.0.
+Pode-se destacar esses produtos bem avaliados em campanhas de marketing para impulsionar vendas.
+Caso existam produtos com notas abaixo de 3.5, é essencial entender os motivos das avaliações negativas (problemas com qualidade, entrega, etc.) e corrigi-los.
 
 Gráfico da Distribuição do Número de Avaliações (Direita)
 O que observamos?
@@ -23,9 +23,9 @@ Apenas alguns produtos têm um número muito alto de avaliações (exemplo: mais
 A distribuição é assimétrica para a direita, indicando que há poucos produtos que concentram muitas avaliações, enquanto a maioria tem poucas.
 
 Interpretação e Decisão:
-✔ Alguns produtos são muito populares e recebem muitas avaliações (esses podem ser aproveitados para impulsionar vendas).
-✔ Muitos produtos quase não têm avaliações, o que pode reduzir a confiança do consumidor.
-✔ Ação recomendada: Implementar estratégias para incentivar mais avaliações, como:
+Alguns produtos são muito populares e recebem muitas avaliações (esses podem ser aproveitados para impulsionar vendas).
+Muitos produtos quase não têm avaliações, o que pode reduzir a confiança do consumidor.
+Ação recomendada: Implementar estratégias para incentivar mais avaliações, como:
 
 E-mails pós-compra pedindo feedback.
 Ofertas ou descontos para quem avaliar o produto.
