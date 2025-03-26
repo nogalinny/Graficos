@@ -1,5 +1,5 @@
 # Graficos
-Gráficos elaborados apartir das bibliotecas: Pandas, Matplotlib e Seaborn.
+Gráficos elaborados a partir das bibliotecas: Pandas, Matplotlib e Seaborn.
 O arquivo é de ecommerce e os principais pontos explorados foram as quantidades vendidas, quantidades de avaliações, as notas das avaliações, os descontos, preço, temporadas de compras e gênero.
 
 Tipos de gráficos
