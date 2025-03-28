@@ -54,15 +54,6 @@ plt.ylabel('Qtd_Vendidos_Cod')
 plt.xticks(rotation=0)
 plt.show()
 
-x = df['Gênero'].value_counts().index
-y = df['Qtd_Vendidos_Cod'].value_counts().values
-
-#Gráfico de pizzas
-plt.figure(figsize=(10, 6))
-plt.pie(y, labels=x, autopct='%.1f%%', startangle=90)
-plt.title('Distribuição de produtos por gênero')
-plt.show()
-
 # Gráfico de densidade de salários
 plt.figure(figsize=(10, 6))  # Define o tamanho da figura
 sns.kdeplot(df['Preço_MinMax'], fill=True, color='#863e9c')  # Cria um gráfico de densidade (KDE) preenchido
