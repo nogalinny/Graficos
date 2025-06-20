@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Carregar os dados
-file_path = ("ecommerce_estatistica.xlsx")  # Altere o caminho conforme necessário
+file_path = ("ecommerce_estatistica.xlsx")
 df = pd.read_excel(file_path)
 
 # Criar a figura com dois histogramas
